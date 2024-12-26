@@ -4,9 +4,9 @@ Ce projet est une application web permettant la visualisation de données.
 
 # Installation
 
-1. Clonez le repository : git clone [https://github.com/soniaabdl/Projet-SIAD]
+1. Clonez le repository : git clone https://github.com/soniaabdl/Projet-SIAD
 
-2.Accédez au répertoire du projet : cd [Projet-SIAD]
+ 2. Accédez au répertoire du projet : cd Projet-SIAD
 
 3. Installez les dépendances Node.js : npm install
 
