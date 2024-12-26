@@ -5,8 +5,8 @@ Ce projet est une application web permettant la visualisation de données.
 # Installation
 
 1. Clonez le repository
-git clone [url-du-repository]
-cd [nom-du-projet]
+git clone [https://github.com/soniaabdl/Projet-SIAD]
+cd [Système d'aide a la décision pour la gestion des crédits bancaires]
 
 2. Installez les dépendances Node.js
 npm install
