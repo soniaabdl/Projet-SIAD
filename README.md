@@ -32,6 +32,6 @@ npm start
 
 2. Accédez à l'application via votre navigateur à l'adresse http://localhost:3000
 
-#License
+# License
 
 Ce projet est sous licence MIT.
