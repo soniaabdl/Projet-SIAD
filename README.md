@@ -6,15 +6,16 @@ Ce projet est une application web permettant la visualisation de données.
 
 1. Clonez le repository
 git clone [https://github.com/soniaabdl/Projet-SIAD]
-cd [Système d'aide a la décision pour la gestion des crédits bancaires]
 
-2. Installez les dépendances Node.js
+cd [Projet-SIAD]
+
+3. Installez les dépendances Node.js
 npm install
 
-3. Installez les dépendances Python
+4. Installez les dépendances Python
 pip install -r "dependence de modele pythone.txt"
 
-4. Configurez les variables d'environnement
+5. Configurez les variables d'environnement
 - Créez un fichier .env à la racine du projet
 - Ajoutez les variables d'environnement nécessaires
 
